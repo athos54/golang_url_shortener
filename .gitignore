@@ -1,3 +1,4 @@
 src/bin
 src/pkg
 src/src
+.env

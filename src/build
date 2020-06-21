@@ -1,0 +1,3 @@
+export GOPATH=$(pwd)
+bash install
+go build -o ../dist/url_shortener_api main.go
